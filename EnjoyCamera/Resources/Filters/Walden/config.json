@@ -1,0 +1,9 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "walden.jpg",
+  "name" : "绿荫",
+  "images" : [
+    "image_1.png",
+    "image_2.png"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "nashville.jpg",
+  "name" : "高雅",
+  "images" : [
+    "image_1.png"
+  ]
+}

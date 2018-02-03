@@ -1,0 +1,8 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "paris02.jpg",
+  "name" : "巴黎",
+  "images" : [
+    "image_1.png"
+  ]
+}

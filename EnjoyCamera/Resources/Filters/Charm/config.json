@@ -1,0 +1,8 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "charm.jpg",
+  "name" : "魅力",
+  "images" : [
+    "image_1.png"
+  ]
+}

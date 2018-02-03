@@ -1,0 +1,8 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "sweet.jpg",
+  "name" : "甜美",
+  "images" : [
+    "image_1.png"
+  ]
+}

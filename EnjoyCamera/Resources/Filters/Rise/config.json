@@ -1,0 +1,10 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "rise.jpg",
+  "name" : "奋斗",
+  "images" : [
+    "image_1.png",
+    "image_2.png",
+    "image_3.png"
+  ]
+}

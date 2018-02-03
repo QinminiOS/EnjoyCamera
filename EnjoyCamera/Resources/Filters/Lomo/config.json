@@ -1,0 +1,9 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "lomo.jpg",
+  "name" : "香氛",
+  "images" : [
+    "image_1.png",
+    "image_2.png"
+  ]
+}

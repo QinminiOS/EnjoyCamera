@@ -1,0 +1,9 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "xpro.jpg",
+  "name" : "清凉",
+  "images" : [
+    "image_1.png",
+    "image_2.png"
+  ]
+}

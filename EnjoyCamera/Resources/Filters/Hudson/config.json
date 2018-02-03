@@ -1,0 +1,10 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "hudson.jpg",
+  "name" : "俊朗",
+  "images" : [
+    "image_1.png",
+    "image_2.png",
+    "image_3.png"
+  ]
+}

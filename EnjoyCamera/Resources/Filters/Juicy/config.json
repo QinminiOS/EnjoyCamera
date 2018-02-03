@@ -1,0 +1,8 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "juicy.jpg",
+  "name" : "生动",
+  "images" : [
+    "image_1.png"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "lordkelvin.jpg",
+  "name" : "霞光",
+  "images" : [
+    "image_1.png"
+  ]
+}

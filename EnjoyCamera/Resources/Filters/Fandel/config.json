@@ -1,0 +1,8 @@
+{
+  "fragment" : "fragment.glsl",
+  "icon" : "fandel.jpg",
+  "name" : "青春",
+  "images" : [
+    "image_1.png"
+  ]
+}

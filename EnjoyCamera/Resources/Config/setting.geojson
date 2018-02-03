@@ -1,0 +1,48 @@
+ [
+  [
+   {
+   "name": "高分辨率",
+   "settingType": 1,
+   "switchOn": 1,
+   "link": ""
+   },
+   {
+   "name": "位置信息",
+   "settingType": 1,
+   "switchOn": 0,
+   "link": ""
+   },
+   {
+   "name": "存储优化",
+   "settingType": 1,
+   "switchOn": 1,
+   "link": ""
+   }
+   ],
+  [
+   {
+   "name": "通知",
+   "settingType": 1,
+   "switchOn": 0,
+   "link": ""
+   },
+   {
+   "name": "评论我们",
+   "settingType": 2,
+   "switchOn": 0,
+   "link": ""
+   },
+   {
+   "name": "分享给好友",
+   "settingType": 2,
+   "switchOn": 0,
+   "link": ""
+   },
+   {
+   "name": "关于我们",
+   "settingType": 2,
+   "switchOn": 0,
+   "link": ""
+   }
+   ]
+  ]
