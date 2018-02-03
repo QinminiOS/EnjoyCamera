@@ -5,7 +5,7 @@
 # Idea
 
 - Idea from: [GPUImage](https://github.com/BradLarson/GPUImage)
-- Idea from My JianShu [Blog](https://www.jianshu.com/u/fff74d0ebed7) Blog
+- Idea from [My JianShu Blog](https://www.jianshu.com/u/fff74d0ebed7)
 
 # Feature
 
