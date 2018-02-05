@@ -16,6 +16,9 @@
 - 实现了保存制作好的图片，并分享的功能
 - 增加了崩溃日志收集功能
 
+# Explanation
+
+- 项目目前使用简单的MVC架构，但是里面包含了 ReactiveObjC 框架。之前准备用 MVVM 架构来实现的，但是想着项目本着简单的原则，让大家更容易学习 GPUImage、OpenGL ES 的相关内容，我在开源代码的时候去掉了 MVVM 的相关内容（毕竟学习 ReactiveObjC 的难度也不小嘛），但是一些简单的事件不用学习 ReactiveObjC ，理解起来难度并不大，因此也就没有去掉。总的来说，引入 ReactiveObjC 只是做简单的事件处理、实现简单的 KVO 功能（当然 ReactiveObjC 的功能远不止于此）。
 
 # ScreenShot
 
